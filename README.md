@@ -1,2 +1,2 @@
 # jameshngintern
-HNG Internship repo
+A simple html/css page to show time using php
